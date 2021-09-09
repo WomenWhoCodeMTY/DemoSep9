@@ -1,3 +1,12 @@
+# Para correr el proyecto.
+
+1. Node debe estar instalado en el OS.
+2. Bajar el proyecto a un folder local.
+3. Iniciar una consolar y redireccionar al folder donde esta el proyecto.
+4. Correr la instruccion 'yarn install' para instalar las librerias que usa el proyecto.
+5. Para correr el proyecto, correr la instruccion 'yarn start'
+
+## Readme original de React
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
