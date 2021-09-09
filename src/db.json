@@ -1,0 +1,208 @@
+{
+    "cines": [
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Altea Huinalá",
+                    "Clave": "cinepolis-altea-huinala"
+                },
+                {
+                    "Nombre": "Cinépolis Citadel",
+                    "Clave": "cinepolis-citadel"
+                },
+                {
+                    "Nombre": "Cinépolis Paseo La Fe",
+                    "Clave": "cinepolis-paseo-la-fe"
+                },
+                {
+                    "Nombre": "Cinépolis Pesquería Nuevo León",
+                    "Clave": "cinepolis-pesqueria-nuevo-leon"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Apodaca",
+                    "Clave": "cinepolis-sendero-apodaca"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero la Fe",
+                    "Clave": "cinepolis-sendero-la-fe"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Paseo La Fe",
+                    "Clave": "cinepolis-vip-paseo-la-fe"
+                },
+                {
+                    "Nombre": "Cinépolis Xtreme Los Ángeles",
+                    "Clave": "cinepolis-xtreme-los-angeles"
+                }
+            ],
+            "Nombre": "Monterrey Norte",
+            "Clave": "monterrey-norte",
+            "GeoX": "25.754045753966864",
+            "GeoY": "-100.22562242370606"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Eloy Cavazos",
+                    "Clave": "cinepolis-eloy-cavazos"
+                },
+                {
+                    "Nombre": "Cinépolis Pablo Livas",
+                    "Clave": "cinepolis-pablo-livas"
+                },
+                {
+                    "Nombre": "Cinépolis San Roque",
+                    "Clave": "cinepolis-san-roque"
+                },
+                {
+                    "Nombre": "Cinépolis Valle Soleado",
+                    "Clave": "cinepolis-valle-soleado"
+                }
+            ],
+            "Nombre": "Monterrey Oriente",
+            "Clave": "monterrey-oriente",
+            "GeoX": "25.6918808768726",
+            "GeoY": "-100.17784331314999"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Almenares",
+                    "Clave": "cinepolis-almenares"
+                },
+                {
+                    "Nombre": "Cinépolis Citadina Escobedo",
+                    "Clave": "cinepolis-citadina-escobedo"
+                },
+                {
+                    "Nombre": "Cinépolis La Plazoleta",
+                    "Clave": "cinepolis-la-plazoleta"
+                },
+                {
+                    "Nombre": "Cinépolis Sendero Monterrey",
+                    "Clave": "cinepolis-sendero-monterrey"
+                }
+            ],
+            "Nombre": "Monterrey Sendero",
+            "Clave": "monterrey-sendero",
+            "GeoX": "25.768230407348774",
+            "GeoY": "-100.30369462969975"
+        },
+        {
+            "Complejos": [
+                {
+                    "Nombre": "Cinépolis Esfera Monterrey",
+                    "Clave": "cinepolis-esfera-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Monterrey",
+                    "Clave": "cinepolis-galerias-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis Galerías Valle Oriente",
+                    "Clave": "cinepolis-galerias-valle-oriente"
+                },
+                {
+                    "Nombre": "Cinépolis Garza Sada",
+                    "Clave": "cinepolis-garza-sada"
+                },
+                {
+                    "Nombre": "Cinépolis Nuevo Sur",
+                    "Clave": "cinepolis-nuevo-sur"
+                },
+                {
+                    "Nombre": "Cinépolis Plaza Santiago",
+                    "Clave": "cinepolis-plaza-santiago"
+                },
+                {
+                    "Nombre": "Cinépolis Punto Valle",
+                    "Clave": "cinepolis-punto-valle"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Avanta Gardens",
+                    "Clave": "cinepolis-vip-avanta-gardens"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Esfera Monterrey",
+                    "Clave": "cinepolis-vip-esfera-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Monterrey",
+                    "Clave": "cinepolis-vip-galerias-monterrey"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Galerías Valle Oriente",
+                    "Clave": "cinepolis-vip-galerias-valle-oriente"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Nuevo Sur",
+                    "Clave": "cinepolis-vip-nuevo-sur"
+                },
+                {
+                    "Nombre": "Cinépolis VIP Punto Valle",
+                    "Clave": "cinepolis-vip-punto-valle"
+                }
+            ],
+            "Nombre": "Monterrey Sur",
+            "Clave": "monterrey-sur",
+            "GeoX": "25.645214478886615",
+            "GeoY": "-100.30482657008054"
+        }
+    ],
+    "peliculas": [
+        {
+            "Id": 36579,
+            "Title": "After: Almas Perdidas",
+            "Key": "after-almas-perdidas",
+            "OriginalTitle": "After We Fell (Estados Unidos, 2021)",
+            "Rating": "B15",
+            "RunTime": "99 min",
+            "Poster": "http://static.cinepolis.com/img/peliculas/36579/1/1/36579.jpg"
+        },
+        {
+            "Id": 36557,
+            "Title": "Asalto a la Casa de Moneda",
+            "Key": "asalto-a-la-casa-de-moneda",
+            "OriginalTitle": "Way Down (España, 2021)",
+            "Rating": "B",
+            "RunTime": "118 min",
+            "Poster": "http://static.cinepolis.com/img/peliculas/36557/1/1/36557.jpg"
+        },
+        {
+            "Id": 36683,
+            "Title": "Candyman",
+            "Key": "candyman",
+            "OriginalTitle": "Candyman (Estados Unidos, 2021)",
+            "Rating": "B15",
+            "RunTime": "91 min",
+            "Poster": "http://static.cinepolis.com/img/peliculas/36683/1/1/36683.jpg"
+        },
+        {
+            "Id": 36427,
+            "Title": "El Escuadrón Suicida",
+            "Key": "el-escuadron-suicida",
+            "OriginalTitle": "The Suicide Squad (Estados Unidos, 2021)",
+            "Rating": "C",
+            "RunTime": "132 min",
+            "Poster": "http://static.cinepolis.com/img/peliculas/36427/1/1/36427.jpg"
+        },
+        {
+            "Id": 36496,
+            "Title": "Free Guy: Tomando el Control",
+            "Key": "free-guy-tomando-el-control",
+            "OriginalTitle": "Free Guy (Estados Unidos, 2021)",
+            "Rating": "A",
+            "RunTime": "115 min",
+            "Poster": "http://static.cinepolis.com/img/peliculas/36496/1/1/36496.jpg"
+        },
+        {
+            "Id": 36686,
+            "Title": "Shang Chi y la Leyenda de los Diez Anillos",
+            "Key": "shang-chi-y-la-leyenda-de-los-diez-anillos",
+            "OriginalTitle": "Shang Chi and the Legend of the Ten Rings (US,2021",
+            "Rating": "B",
+            "RunTime": "132 min",
+            "Poster": "http://static.cinepolis.com/img/peliculas/36686/1/1/36686.jpg"
+        }
+    ]
+}
