@@ -1,0 +1,75 @@
+module.exports = {
+  extends: [
+    'eslint-config-airbnb',
+  ],
+
+  rules: {
+    'react/jsx-props-no-spreading': 'off',
+    'arrow-parens': ['error', 'as-needed', { requireForBlockBody: true }],
+    'react/jsx-no-target-blank': 'off',
+
+    'linebreak-style': ['off', 'windows'],
+
+    'implicit-arrow-linebreak': 'off',
+    'react/default-props-match-prop-types': ['error', { allowRequiredDefaults: true }],
+    'react/prefer-stateless-function': 'error',
+    'react/no-this-in-sfc': 'error',
+    'react/require-default-props': 'off',
+    'react/no-array-index-key': 'off',
+    'react/no-multi-comp': 'off',
+    'react/jsx-one-expression-per-line': 'off',
+    'no-plusplus': 'off',
+    'max-len': 'off',
+    'react/forbid-prop-types': 'off',
+    'react/no-unescaped-entities': 'off',
+    'react/destructuring-assignment': 'off',
+
+    'no-unused-expressions': ['error', { allowShortCircuit: true }],
+    'no-alert': 'off',
+    'import/prefer-default-export': 'off',
+    'no-nested-ternary': 'off',
+
+    'object-curly-newline': 'off',
+    'function-paren-newline': 'off',
+
+    'import/extensions': ['error', 'always', { js: 'never', jsx: 'never' }],
+
+    'jsx-a11y/anchor-is-valid': 'off',
+    'jsx-a11y/interactive-supports-focus': 'off',
+    'jsx-a11y/no-noninteractive-element-interactions': 'off',
+    'jsx-a11y/anchor-has-content': ['off', { components: [''] }],
+    'jsx-a11y/aria-role': 'off',
+    'jsx-a11y/aria-props': 'off',
+    'jsx-a11y/aria-proptypes': 'off',
+    'jsx-a11y/aria-unsupported-elements': 'off',
+    'jsx-a11y/href-no-hash': ['off', { components: ['a'] }],
+    'jsx-a11y/img-has-alt': 'off',
+    'jsx-a11y/img-redundant-alt': 'off',
+    'jsx-a11y/label-has-for': ['off', { components: ['label'] }],
+    'jsx-a11y/mouse-events-have-key-events': 'off',
+    'jsx-a11y/no-access-key': 'off',
+    'jsx-a11y/no-onchange': 'off',
+    'jsx-a11y/onclick-has-focus': 'off',
+    'jsx-a11y/role-has-required-aria-props': 'off',
+    'jsx-a11y/role-supports-aria-props': 'off',
+    'jsx-a11y/tabindex-no-positive': 'off',
+    'jsx-a11y/heading-has-content': ['off', { components: [''] }],
+    'jsx-a11y/html-has-lang': 'off',
+    'jsx-a11y/lang': 'off',
+    'jsx-a11y/no-marquee': 'off',
+    'jsx-a11y/scope': 'off',
+    'jsx-a11y/click-events-have-key-events': 'off',
+    'jsx-a11y/no-static-element-interactions': 'off',
+    'jsx-a11y/label-has-associated-control': 'off',
+
+    // used for immer because the immer usage assumes changing props in called functions
+    'no-param-reassign': ['error', { props: true, ignorePropertyModificationsForRegex: ['^draft'] }],
+
+    'react/no-unused-state': 'error',
+    'react/no-access-state-in-setstate': 'error',
+    'react/no-direct-mutation-state': 'error',
+    'no-return-assign': 'error',
+    'no-restricted-globals': 'error',
+    'prefer-promise-reject-errors': 'error',
+  },
+};

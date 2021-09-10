@@ -3,7 +3,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-} from "react-router-dom";
+} from 'react-router-dom';
 import Home from './features/home/Home';
 import Layout from './features/home/Layout';
 import Peliculas from './features/peliculas/Peliculas';

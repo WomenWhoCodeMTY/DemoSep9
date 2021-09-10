@@ -5,12 +5,11 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.css';
 
-const componentDom = document.getElementById('root');
+const componentDom = document.getElementById('react-app');
 if (componentDom) {
   const render = (Component) => {
     ReactDOM.render(
-      <Component />
-      , componentDom
+      <Component />, componentDom,
     );
   };
 
