@@ -61,6 +61,7 @@ module.exports = {
     'jsx-a11y/click-events-have-key-events': 'off',
     'jsx-a11y/no-static-element-interactions': 'off',
     'jsx-a11y/label-has-associated-control': 'off',
+    'jsx-a11y/control-has-associated-label': 'off',
 
     // used for immer because the immer usage assumes changing props in called functions
     'no-param-reassign': ['error', { props: true, ignorePropertyModificationsForRegex: ['^draft'] }],

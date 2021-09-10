@@ -1,11 +1,16 @@
 import React from 'react';
-import Container from 'react-bootstrap/Container';
+import { Container, Button } from 'react-bootstrap';
 import '../../App.css';
 
 const Header = () => (
   <Container className="App-header">
     <h2>Front End Estudy Group</h2>
     <h4>Java script demo</h4>
+    <div style={{ width: '100%' }}>
+      <a href="/home">
+        <Button className="float-end" variant="secondary">Home</Button>
+      </a>
+    </div>
   </Container>
 );
 
